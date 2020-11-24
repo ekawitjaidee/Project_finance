@@ -2,4 +2,11 @@
 [0930/174806.401:ERROR:process_info.cc(556)] ReadMemoryInfo failed
 [0930/174806.401:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
 [1025/141624.861:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+<<<<<<< HEAD
 [1028/135125.249:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+=======
+[1123/152052.773:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1123/161039.039:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1123/204547.105:ERROR:crash_report_database_win.cc(457)] unexpected header
+>>>>>>> e97e58733e30d65b6f0cba2e871d873cee048b0b
+[1124/152346.535:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
